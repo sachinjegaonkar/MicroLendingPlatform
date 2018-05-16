@@ -1,5 +1,5 @@
 # MicroLendingPlatform
-=========================
+
 ⚙️ Decentralized, Democratized, Transparent Micro-Lending platform based on Block chain
 
 Problem Statement
@@ -70,6 +70,8 @@ Platform Architecture – Open Auction
 
 The Open Auction Approach - Trust And Transparency
 
+![alt text] (https://github.com/sachinjegaonkar/MicroLendingPlatform/blob/master/Platform%20Architecture%20-%20Open%20Auction.jpg "")
+
 * This is the process where certain people (e.g. from village) forms a group, we call it as a network.
 * Everyone decides a certain amount which is to be paid by everyone in the number of installments which is equal to the member count in the network.
 * The installment amount is fixed which is predetermined by the group.
@@ -87,22 +89,24 @@ The Open Auction Approach - Trust And Transparency
 * Instead, the interest amount will only get distributed to the remaining members of the group/network. This way, everyone in the network will get benefited equally during the cycle of installments.
 * The x factor is pre-determined by network and every member should agree to this decision.
 * The new member is allowed to join/leave the group only after completion of the current cycle.
-* 
-* e.g. 
-*     12 people come to form their own network.
-*     everyone decides to deposit 10000/- as a monthly installments for 12 months. so, everyone is contributing their own amount equal to 120000/- in one complete cycle.
-*     everybody is eligible to get 120000/- as a loan from the network once in the complete cycle starting from the first open auction.
-*     everyone decides 4 as a x factor in the system.
-*     that means, in the last 4 installment cycles, whatever the interest rate that network earns from the auction process, it will only get distributed to the remaining people in the network those have already taken the loan.
-*     suppose there are 3 eligible people who are requesting for the loan. then they have to win the loan amount by bidding it with maximum interest rate that they can afford.
-*     consider a case where one has requested a loan by bidding the maximum interest rate equal to 5%.
-*     the system will disburse the loan amount (e.g. 120000 - 5% of interest) to the borrower who has won the loan request.
-*     the system will distribute the earned interest amount from this auction process depending upon the x factor and the number of current installments in the cycle completed.
+
+e.g. 
+    12 people come to form their own network.
+    everyone decides to deposit 10000/- as a monthly installments for 12 months. so, everyone is contributing their own amount equal to 120000/- in one complete cycle.
+    everybody is eligible to get 120000/- as a loan from the network once in the complete cycle starting from the first open auction.
+    everyone decides 4 as a x factor in the system.
+    that means, in the last 4 installment cycles, whatever the interest rate that network earns from the auction process, it will only get distributed to the remaining people in the network those have already taken the loan.
+    suppose there are 3 eligible people who are requesting for the loan. then they have to win the loan amount by bidding it with maximum interest rate that they can afford.
+    consider a case where one has requested a loan by bidding the maximum interest rate equal to 5%.
+    the system will disburse the loan amount (e.g. 120000 - 5% of interest) to the borrower who has won the loan request.
+    the system will distribute the earned interest amount from this auction process depending upon the x factor and the number of current installments in the cycle completed.
 
 Platform Architecture – Random Number
 =====================
 
 The Random Number Approach - Trust And Transparency
+
+![alt text] (https://github.com/sachinjegaonkar/MicroLendingPlatform/blob/master/Platform%20Architecture%20-%20Random%20Number.jpg "")
 
 * This approach is similar to the Open Auction Approach but with following differences.
 * Instead of requesting for the loan, it gets distributed to one of the random member in the network.
