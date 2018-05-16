@@ -158,7 +158,7 @@ contract LendingRequest {
     uint public premium_wei  = 0;                       //How much premium in wei Borrower wants to pay to Lender
     uint public token_amount = 0;                       //Count of ERC20-tokens Borrower wants to put as collateral
     uint public days_to_lend = 0;                       //Number of days to lend the loan
-    string public token_name = "LEND";                      //Name of the ERC20-token Borrower putting as a collateral
+    string public token_name = "";                      //Name of the ERC20-token Borrower putting as a collateral
     bytes32 public ens_domain_hash;                     //ENS Domain hash which Borrower putting as a collateral
     string public token_infolink = "";                  //Token info link (optional)
     address public token_smartcontract_address = 0x0;   //ERC20 Token's contract address
