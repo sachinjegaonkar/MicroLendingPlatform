@@ -5,7 +5,7 @@
 Problem Statement
 ==================
 
-The problem statement was a part of [TECHGIG's coding contest - Code Gladiators 2018] (https://www.techgig.com/codegladiators) held from 20th March to 15th May. The problem statement as below was for Blockchain technology.
+The problem statement was a part of [TECHGIG's coding contest - Code Gladiators 2018](https://www.techgig.com/codegladiators) held from 20th March to 15th May. The problem statement as below was for Blockchain technology.
 
 Develop a truly Decentralized, Democratized, Transparent Micro-Lending platform based on Block chain. This platform would have to do the following:
 
