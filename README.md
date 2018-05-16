@@ -70,7 +70,7 @@ Platform Architecture – Open Auction
 
 The Open Auction Approach - Trust And Transparency
 
-![alt text] (https://github.com/sachinjegaonkar/MicroLendingPlatform/blob/master/Platform%20Architecture%20-%20Open%20Auction.jpg "")
+![alt text](https://github.com/sachinjegaonkar/MicroLendingPlatform/blob/master/Platform%20Architecture%20-%20Open%20Auction.jpg)
 
 * This is the process where certain people (e.g. from village) forms a group, we call it as a network.
 * Everyone decides a certain amount which is to be paid by everyone in the number of installments which is equal to the member count in the network.
@@ -106,7 +106,7 @@ Platform Architecture – Random Number
 
 The Random Number Approach - Trust And Transparency
 
-![alt text] (https://github.com/sachinjegaonkar/MicroLendingPlatform/blob/master/Platform%20Architecture%20-%20Random%20Number.jpg "")
+![alt text](https://github.com/sachinjegaonkar/MicroLendingPlatform/blob/master/Platform%20Architecture%20-%20Random%20Number.jpg)
 
 * This approach is similar to the Open Auction Approach but with following differences.
 * Instead of requesting for the loan, it gets distributed to one of the random member in the network.
