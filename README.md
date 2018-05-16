@@ -92,14 +92,14 @@ The Open Auction Approach - Trust And Transparency
 
 e.g. 
     12 people come to form their own network.
-    everyone decides to deposit 10000/- as a monthly installments for 12 months. so, everyone is contributing their own amount equal to 120000/- in one complete cycle.
-    everybody is eligible to get 120000/- as a loan from the network once in the complete cycle starting from the first open auction.
-    everyone decides 4 as a x factor in the system.
-    that means, in the last 4 installment cycles, whatever the interest rate that network earns from the auction process, it will only get distributed to the remaining people in the network those have already taken the loan.
-    suppose there are 3 eligible people who are requesting for the loan. then they have to win the loan amount by bidding it with maximum interest rate that they can afford.
-    consider a case where one has requested a loan by bidding the maximum interest rate equal to 5%.
-    the system will disburse the loan amount (e.g. 120000 - 5% of interest) to the borrower who has won the loan request.
-    the system will distribute the earned interest amount from this auction process depending upon the x factor and the number of current installments in the cycle completed.
+    Everyone decides to deposit 10000/- as a monthly installments for 12 months. so, everyone is contributing their own amount equal to 120000/- in one complete cycle.
+    Everybody is eligible to get 120000/- as a loan from the network once in the complete cycle starting from the first open auction.
+    Everyone decides 4 as a x factor in the system.
+    That means, in the last 4 installment cycles, whatever the interest rate that network earns from the auction process, it will only get distributed to the remaining people in the network those have already taken the loan.
+    Suppose there are 3 eligible people who are requesting for the loan. then they have to win the loan amount by bidding it with maximum interest rate that they can afford.
+    Consider a case where one has requested a loan by bidding the maximum interest rate equal to 5%.
+    The system will disburse the loan amount (e.g. 120000 - 5% of interest) to the borrower who has won the loan request.
+    The system will distribute the earned interest amount from this auction process depending upon the x factor and the number of current installments in the cycle completed.
 
 Platform Architecture – Random Number
 =====================
