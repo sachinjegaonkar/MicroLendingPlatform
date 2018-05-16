@@ -136,7 +136,8 @@ Disadvantages
 Demonstration Video/Prototype Demo
 =====================
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TTzvL1ibVuM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[![Watch the Demo](https://github.com/sachinjegaonkar/MicroLendingPlatform/blob/master/Remix%20IDE.jpg)](https://youtu.be/TTzvL1ibVuM)
+
 
 Challenges Faced
 =====================
